@@ -35,7 +35,7 @@ Convert the following markup https://codesandbox.io/s/sparkling-sea-5dl12  thank
   - Implementation of a more Elmish way of handling the pagination
   - Installation of an external package that helps to model a ZipList
   
- - 6 - Adding some Side Effects
+- 6 - Adding some Side Effects
 
   - Upgrading from a Browser sandbox app to a Browser element App
   - Implementation of quotes Randomization
