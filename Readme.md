@@ -14,7 +14,7 @@ The workshop will be divided into the following steps :
 
 - 2 - An overview of the Elm Architecture
 
-![Elm architecture](https://elmprogramming.com/images/elm-architecture/model-view-update.png)
+![Elm architecture](https://dennisreimann.de/files/elm/architecture-overview-diagram.svg)
 
 - 3 - Html To Elm
 
