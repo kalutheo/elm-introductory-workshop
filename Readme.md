@@ -12,13 +12,15 @@ The workshop will be divided into the following steps :
 
 - 1 - Introduction to the Syntax : http://elmrepl.cuberoot.in/
 
-- 2 - An overview of the Elm Architecture
+
+- 2 - Html To Elm
+
+Convert the following markup https://codesandbox.io/s/sparkling-sea-5dl12  thanks to https://mbylstra.github.io/html-to-elm/
+
+- 3 - An overview of the Elm Architecture
 
 ![Elm architecture](https://dennisreimann.de/files/elm/architecture-overview-diagram.svg)
 
-- 3 - Html To Elm
-
-Convert the following markup https://codesandbox.io/s/sparkling-sea-5dl12  thanks to https://mbylstra.github.io/html-to-elm/
 
 - 4 - Create your first Pet App using the Elm Architecture
 
